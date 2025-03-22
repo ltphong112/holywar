@@ -1,9 +1,9 @@
 ---
-title: "Thánh Chiến Truyền Kì - Phần Mở Đầu"
+title: "Thánh Chiến Truyền Kì - Chương Mở Đầu"
 date: 2025-03-21T07:32:42-07:00
 draft: false
 toc: false
-images:
+images: 
 tags:
   - Fire Emblem
 ---
@@ -74,6 +74,9 @@ Tuy nhiên đối nghịch với thế tử lại là hai công tước có th�
 Tình thế Grandbell sở dĩ còn giữ được cân bằng là nhờ sự trung lập của nhị công còn lại. Công tước Alvis vùng Vethome - chỉ huy lực lượng phòng vệ quốc gia và Thần phụ Claude, đứng đầu nhà thờ tại Edda.
 
 Thế nhưng Grandbell không chỉ phải đương đầu với các mâu thuẫn nội bộ.
+
+{{< image src="/images/Chapter_0.png" alt="" position="center" style="border-radius: 8px;" >}}
+<p style="text-align:center;">Bản Đồ Chương Mở Đầu</p>
 
 Lâu đài Barhara tọa lạc trên đồi Cephy, nơi diễn ra trận quyết chiến trong truyền thuyết, là lâu đài vĩ đại nhất đẹp nhất trên toàn đại lục Judgral, được Heim xây dựng ngay sau khi thành lập quốc gia. Với những tháp canh và mái vòm khổng lồ thể hiện sức mạnh tuyệt đối của vương gia...
 
