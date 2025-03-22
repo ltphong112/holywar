@@ -47,7 +47,7 @@ Và bình yên quay lại với nhân gian.
 {{< image src="/images/kurth.png" alt="" position="center" style="border-radius: 8px;" >}}
 <p style="text-align:center;">Vương Tử Kurth</p>
 
-Khi đó quốc vương của Grandbell là lão vương Azmure tuổi đã cao, người thừa kế vương vị là vương tử Kurt thì lại còn trẻ, có tài năng nhưng lại quá nóng nảy. Trong lục công có một số người không vừa lòng với điều này và phản đối việc kế vị của vương tử vì thế tình hình chính trị của Grandbell chở nên vô cùng căng thẳng. Để xây dựng thế lực cũng như trui rèn cho thế tử quốc vương triệu tập Công tước vùng Chalphy – Byron về làm thái bảo cho thế tử.
+Khi đó quốc vương của Grandbell là lão vương Azmure tuổi đã cao, người thừa kế vương vị là vương tử Kurt thì lại còn trẻ, có tài năng nhưng lại quá nóng nảy. Trong lục công có một số người không vừa lòng với điều này và phản đối việc kế vị của vương tử vì thế tình hình chính trị của Grandbell chở nên vô cùng căng thẳng. Để xây dựng thế lực cũng như trui rèn cho thế tử quốc vương triệu tập Công tước vùng Chalphy – Vylon về làm thái bảo cho thế tử.
 
 {{< image src="/images/vylon.png" alt="" position="center" style="border-radius: 8px;" >}}
 <p style="text-align:center;">Vylon</p>
@@ -71,7 +71,7 @@ Tuy nhiên đối nghịch với thế tử lại là hai công tước có th�
 {{< image src="/images/claude.png" alt="" position="center" style="border-radius: 8px;" >}}
 <p style="text-align:center;">Claude</p>
 
-Tình thế Grandbell sở dĩ còn giữ được cân bằng là nhờ sự trung lập của nhị công còn lại. Công tước Arvis vùng Vethome - chỉ huy lực lượng phòng vệ quốc gia và Thần phụ Claude, đứng đầu nhà thờ tại Edda.
+Tình thế Grandbell sở dĩ còn giữ được cân bằng là nhờ sự trung lập của nhị công còn lại. Công tước Alvis vùng Vethome - chỉ huy lực lượng phòng vệ quốc gia và Thần phụ Claude, đứng đầu nhà thờ tại Edda.
 
 Thế nhưng Grandbell không chỉ phải đương đầu với các mâu thuẫn nội bộ.
 
@@ -93,7 +93,7 @@ Một buổi sáng hơi khác thường sau một buổi triều kiến không b
 
 > Chúng ta nên thông cảm với thế tử, Reptor luôn nói rằng thế tử còn quá trẻ, thiếu kinh nghiệm cũng như lòng tin của triều thần... nhân cơ hội này thế tử chỉ muốn thay mặt vua cha ra trận và chứng tỏ bản thân mình...
 
-> Tôi biết, nhưng cũng phải dò xét thái độ của bên phía họ đã chứ... giờ thì tình thế ko được tốt cho lắm... Isaac có thể chỉ là một quốc gia trung bình ở phía Đông nhưng kiếm thuật cũng như tinh thần quyết chiến của họ tuyệt đối ko thể coi thường...
+> Tôi biết, nhưng cũng phải dò xét thái độ của bên phía họ đã chứ... giờ thì tình thế không được tốt cho lắm... Isaac có thể chỉ là một quốc gia trung bình ở phía Đông nhưng kiếm thuật cũng như tinh thần quyết chiến của họ tuyệt đối không thể coi thường...
 
 > Trong khi nội bộ chúng ta thực sự cũng rối loạn...
 
@@ -110,7 +110,7 @@ Một buổi sáng hơi khác thường sau một buổi triều kiến không b
 {{< image src="/images/sigurd.png" alt="" position="center" style="border-radius: 8px;" >}}
 <p style="text-align:center;">Sigurd</p>
 
-{{< image src="/images/Adean.png" alt="" position="center" style="border-radius: 8px;" >}}
+{{< image src="/images/adean.png" alt="" position="center" style="border-radius: 8px;" >}}
 <p style="text-align:center;">Adean</p>
 
 > Sigurd thì tôi không lo nhưng cái Adean nhà tôi...
