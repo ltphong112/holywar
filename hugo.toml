@@ -1,7 +1,8 @@
-baseurl      = "localhost"
-title        = "My Blog"
+baseurl      = "https://holywar.sapus.us"
+title        = "Fire Emblem 4: Genealogy of The Holy War"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
+minify 	     = true
 
 [params]
   dateform        = "Jan 2, 2006"
