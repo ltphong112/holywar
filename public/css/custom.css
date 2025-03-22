@@ -1,0 +1,15 @@
+.profile {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.profile img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+.profile p {
+    margin-top: 10px;
+    font-size: 1.2em;
+}
