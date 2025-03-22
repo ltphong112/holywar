@@ -1,0 +1,3 @@
+Lần đầu được biết đến trò chơi vào cuối những năm chín mươi, nơi tôi từng sinh sống tại Thành Phố Hồ Chí Minh (Sài Gòn trước đây). Sự mới lạ trong cách chơi khác biệt so với những trò chơi như Mario hay Contra. Từng nước đi cần được tính toán cẩn trọng, nghiên cứu các chỉ số giữa quân địch và quân ta - từ đó tính toán được tổn thương khi đánh trúng, chiến thuật khi di chuyển quân, các loại vũ khí kiêng kị khi sử dụng,...
+
+
