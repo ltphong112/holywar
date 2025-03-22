@@ -76,7 +76,7 @@ Tình thế Grandbell sở dĩ còn giữ được cân bằng là nhờ sự tr
 Thế nhưng Grandbell không chỉ phải đương đầu với các mâu thuẫn nội bộ.
 
 {{< image src="/images/Chapter_0.png" alt="" position="center" style="border-radius: 8px;" >}}
-<p style="text-align:center;">Bản Đồ Chương Mở Đầu</p>
+<p style="text-align:center;">Bản Đồ Nam Grandbell</p>
 
 Lâu đài Barhara tọa lạc trên đồi Cephy, nơi diễn ra trận quyết chiến trong truyền thuyết, là lâu đài vĩ đại nhất đẹp nhất trên toàn đại lục Judgral, được Heim xây dựng ngay sau khi thành lập quốc gia. Với những tháp canh và mái vòm khổng lồ thể hiện sức mạnh tuyệt đối của vương gia...
 
